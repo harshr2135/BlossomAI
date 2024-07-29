@@ -35,9 +35,9 @@ You can access the dataset from the below link:
 https://github.com/harshr2135/BlossomAI/blob/main/flower_dataset.csv
 
 ## Usage
-Step 1: Download the notebook and csv file (save both the files preferably in the same folder).
-Step 2: Open Jupyter Notebook and navigate the the folder containing the flower_dataset.csv and blossomai.ipynb
-Step 3: Change 
+- Step 1: Download the notebook and csv file (save both the files preferably in the same folder).
+- Step 2: Open Jupyter Notebook and navigate the the folder containing the flower_dataset.csv and blossomai.ipynb
+- Step 3: Change 
          flower = pd.read_csv(os.path.join(dirname, filename)) 
          to
          flower = pd.read_csv('flower_dataset.csv'))
