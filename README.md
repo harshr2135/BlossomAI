@@ -36,10 +36,10 @@ https://github.com/harshr2135/BlossomAI/blob/main/flower_dataset.csv
 ## Model Training
 The model is trained using various machine learning algorithms. The training process involves the following steps:
 
-Data preprocessing
-Feature extraction
-Model selection
-Model training and evaluation
+-Data preprocessing
+-Feature extraction
+-Model selection
+-Model training and evaluation
 
 ## Conclusion
 * Observation
