@@ -43,7 +43,7 @@ The model is trained using various machine learning algorithms. The training pro
 
 ## Conclusion
 * Observation
-       Among the 3 speices of flowers in the dataset, Rose, Hibiscus and Shoeblack Plan Hibiscus has the largest size and No Fragrance and Rose and Shoeblack Plant appear to be same in terms of size and intensity fragrance
+       ** Among the 3 speices of flowers in the dataset, Rose, Hibiscus and Shoeblack Plan Hibiscus has the largest size and No Fragrance and Rose and Shoeblack Plant appear to be same in terms of size and intensity fragrance
 * Prediction Model
-        KNeighborsClassifer car predict species of flower given its size, fragrance and height with about 90.5% accuracy whereas it drops to 81.9% when only fragrance and height is taken into consideration
+        ** KNeighborsClassifer car predict species of flower given its size, fragrance and height with about 90.5% accuracy whereas it drops to 81.9% when only fragrance and height is taken into consideration
 
